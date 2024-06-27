@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nithu-only
-- 👀 I’m interested in ...something
-- 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ...something
+- 👋 Hi, I’m Nithinkumar M
+- 👀 I’m interested in ...Coding
+- 🌱 I’m currently learning ...Java Springboot
+- 💞️ I’m looking to collaborate on ...Java 
 - 📫 How to reach me ...
 
 <!---
