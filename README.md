@@ -20,7 +20,7 @@
 
 * 👨‍🏫 Technical Trainer with teaching experience
 * 💻 Interested in Software Development & Problem Solving
-* 🌱 Currently learning **Java Spring Boot**
+* 🌱 Currently teaching Computer Programming Languages.
 * 🛠 Building practical projects for education workflows
 * 🤝 Open to collaboration in **Java / Web Projects**
 * 📚 Continuous learner
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Project (Recent)
 
 ### 📌 **DCF Attendance**
 
@@ -83,3 +83,5 @@ A modern educational attendance management platform.
 ### ⭐ *Code • Learn • Build • Teach*
 
 </div>
+
+
